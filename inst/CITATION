@@ -1,0 +1,12 @@
+bibentry(
+  bibtype  = "Unpublished",
+  title    = "Novel pooling method for nonlinear cohort analysis and meta-analysis estimates: Predicting health outcomes based on climate-friendly diets",
+  author   = c(person(c("Tommi", "Härkänen")), person(c("Heli", "Tapanainen")), person(c("Laura", "Sares-Jäske")), person(c("Satu", "Männistö")), person(c("Niina E.", "Kaartinen")), person(c("Laura", "Paalanen"))),
+  # journal  = Epidemiology,
+  year     = 2025,
+  note     = "Under revision"
+  # volume   = ,
+  # number   = ,
+  # pages    = ,
+  # doi      =
+)
