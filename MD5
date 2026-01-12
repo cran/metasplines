@@ -1,8 +1,8 @@
-8e825dbce363864cfa30e63400278f65 *DESCRIPTION
+11ea8a820c5dd322958998cbfdbb740a *DESCRIPTION
 48fe92e535a6f7c78c602dd40eb644b3 *NAMESPACE
-84148110478c8d61c88168b636bde1d8 *R/pool_splines.R
+9e33a7e5f45cd20af4db663d3c5c42f7 *R/pool_splines.R
 0cd1a728f4a11ecdf2e15ef9adb4b0ed *README.md
-f9be8974a7fda2ef954dbdf6974faf56 *build/vignette.rds
+5c524fa04fb5644a5177a6465dcd64e2 *build/vignette.rds
 12caab3426f3c59a9637866a999fa8fb *inst/CITATION
 115db5e1be167cb1fbc9879c9e4dc9c2 *inst/doc/introduction.R
 eb7b73ecbe1b075309abb9ddafdc7375 *inst/doc/introduction.Rmd

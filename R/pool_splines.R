@@ -197,6 +197,6 @@ pool_all_splines <- function(v, meta.df, glm.res) {
     var.v[attr(res.l[[i]], "idx.param")] <-
       as.matrix(res.l[[i]]$pooled[res.l[[i]]$pooled$stat=="var.pool",-1])
   }
-  var.m <- outer(var.v, var.v) * cor.m
+  var.m <- outer(sqrt(var.v), sqrt(var.v)) * cor.m
   list(pooled=res, est=est.v, vcov=var.m)
 }
